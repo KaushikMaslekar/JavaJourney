@@ -80,3 +80,7 @@ tempCodeRunnerFile.*
 
 # Debug files
 debug.log
+
+# Exclude specific folders
+Tranning/
+Book/
